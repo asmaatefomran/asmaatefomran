@@ -9,9 +9,7 @@
 <p align="left">
 <a href="mailto:asmaatef6789@gmail.com">
   <img align="center" alt="Falguni @Mail" height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-<a href="https://twitter.com/asmaa_atef_draw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asmaa_atef_draw" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/asmaa-atef-161241211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaatef6789@gmail.com" height="40" width="40" /></a>
-<a href="https://instagram.com/asmaa_atef_draws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asmaa_atef_draws" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/Asma_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asmacode" height="40" /></a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&locale=en" alt="asmaatefomran" /></p>
