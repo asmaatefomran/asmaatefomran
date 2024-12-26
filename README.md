@@ -1,5 +1,5 @@
 <h1 align="center">السلام عليكم🤍</h1>
-<h3 align="center" , size=20px>My name is Asmaa Atef, and I am a third-year Computer Science student at Cairo University.</h3>
+<h2 align="center" >My name is Asmaa Atef, and I am a third-year Computer Science student at Cairo University.</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
