@@ -36,7 +36,7 @@
 </p>
 
 
-<h3 align="left">Follow Me On:</h3>
+<h3 align="center">Follow Me On:</h3>
 
 <div style="display: flex; justify-content: center; gap: 40px; align-items: center; margin-top: 30px;">
   <a href="https://www.linkedin.com/in/asmaa-atef-161241211/" target="_blank">
