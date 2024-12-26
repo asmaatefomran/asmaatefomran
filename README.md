@@ -13,6 +13,26 @@
 <a href="https://codeforces.com/profile/Asma_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asmacode" height="40" /></a>
 </p>
 
+
+## Follow Me On
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmaa-atef-161241211)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmaatef6789@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Asma_code)
+
+<p align="center">
+  <a href="mailto:asmaatef6789@gmail.com">
+    <img align="center" alt="Asmaa Atef | Gmail" height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  </a>
+  <a href="https://linkedin.com/in/asmaa-atef-161241211" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/Asma_code" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" />
+  </a>
+</p>
+
+
 ## GitHub Stats
 
 ![Asmaa Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&theme=radical)
