@@ -9,7 +9,7 @@
 
 ## Follow Me On
 
-<div style="display: flex; justify-content: center; gap: 25px; align-items: center; margin-top: 20px;">
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center; margin-top: 30px;">
   <a href="https://www.linkedin.com/in/asmaa-atef-161241211/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
   </a>
@@ -20,6 +20,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" />
   </a>
 </div>
+
 
 
 ## GitHub Stats
