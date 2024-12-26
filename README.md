@@ -1,5 +1,5 @@
 <h1 align="center">السلام عليكم🤍 </h1>
-<h1 align="center">     I'm Asmaa Atef, a CS student at third year at Cairo university</h1>
+<h1 align="center">    My name is Asmaa Atef, and I am a third-year Computer Science student at Cairo University.</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,9 +13,12 @@
 <a href="https://codeforces.com/profile/Asma_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asmacode" height="40" /></a>
 </p>
 
-![Asmaa Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaatefomran&layout=compact&theme=radical)
+## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&locale=en" alt="asmaatefomran" /></p>
+![Asmaa Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&theme=default)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaatefomran&layout=compact&theme=default)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaatefomran&" alt="asmaatefomran" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaatefomran&theme=default" alt="asmaatefomran" />
+</p>
+
