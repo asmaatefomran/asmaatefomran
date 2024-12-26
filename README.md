@@ -50,13 +50,11 @@
   </a>
 </div>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3  align="left" >GitHub Stats:</h3>
 
-![Asmaa Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&theme=midnight)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaatefomran&layout=compact&theme=midnight" alt="Most Used Languages" style="height: 195px;" />
+![Asmaa Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaatefomran&layout=compact&theme=radical" alt="Most Used Languages" style="height: 195px;" />
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaatefomran&theme=midnight" alt="asmaatefomran" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaatefomran&theme=radical" alt="asmaatefomran" />
 </p>
-
