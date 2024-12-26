@@ -1,4 +1,4 @@
-<h1 align="center">السلام عليكم🤍 </h1>
+![image](https://github.com/user-attachments/assets/6d893945-63c1-4d0d-ab22-6961e45ad003)<h1 align="center">السلام عليكم🤍 </h1>
 <h1 align="center">    My name is Asmaa Atef, and I am a third-year Computer Science student at Cairo University.</h1>
 
 
@@ -26,7 +26,9 @@
 ## GitHub Stats
 
 ![Asmaa Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaatefomran&layout=compact&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaatefomran&langs_count=8&theme=radical)
+
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaatefomran&theme=radical" alt="asmaatefomran" />
