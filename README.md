@@ -53,7 +53,7 @@
 <h3  align="left" >GitHub Stats:</h3>
 
 ![Asmaa Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaatefomran&layout=compact&theme=radical&height=60px)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaatefomran&layout=compact&theme=radical&height=100px)
 
 
 <p align="center">
