@@ -25,10 +25,16 @@
 
 ## GitHub Stats
 
-![Asmaa Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaatefomran&langs_count=8&theme=radical)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&theme=radical" alt="Asmaa Atef's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaatefomran&langs_count=8&theme=radical" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaatefomran&theme=radical" alt="asmaatefomran" />
