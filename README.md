@@ -1,5 +1,5 @@
 <h1 align="center">السلام عليكم🤍 </h1>
-<h1 align="center">     I'm Asmaa Atef👋🏻</h1>
+<h1 align="center">     I'm Asmaa Atef, a CS student at third year at Cairo university</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,6 +12,10 @@
 <a href="https://linkedin.com/in/asmaa-atef-161241211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaatef6789@gmail.com" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/Asma_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asmacode" height="40" /></a>
 </p>
+
+![Asmaa Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaatefomran&layout=compact&theme=radical)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&locale=en" alt="asmaatefomran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaatefomran&" alt="asmaatefomran" /></p>
