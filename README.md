@@ -2,7 +2,7 @@
 <h2 align="center" >I'm Asmaa, a software engineer with a deep interest in back-end technologies.</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asmaatefomran&label=Profile%20views&color=0e75b6&style=flat" alt="asmaatefomran" /> </p>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="900" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="800" />
 </div>
 <p>- 🌱 I’m currently learning **Spring Boot in more depth**
 
@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<h3  align="center" >GitHub Stats:</h3>
+<h3  align="left" >GitHub Stats:</h3>
 
 ![Asmaa Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaatefomran&layout=compact&theme=radical" alt="Most Used Languages" style="height: 195px;" />
