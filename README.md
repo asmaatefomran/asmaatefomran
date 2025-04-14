@@ -4,9 +4,11 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="800" />
 </div>
-<p>- 🌱 I’m currently learning **Spring Boot in more depth**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jFQZYcVWmUoMu7fZKZGTK2-dVuwiOG9U/view?usp=sharing](https://drive.google.com/file/d/1jFQZYcVWmUoMu7fZKZGTK2-dVuwiOG9U/view?usp=sharing)
+<br>
+<h3 align="left">About me:</h3>
+<p>
+  - 🌱 I’m currently learning Spring Boot in more depth, Advanced Database topics.
+  - 📄 Take a look to My CV: [My CV](https://drive.google.com/file/d/1jFQZYcVWmUoMu7fZKZGTK2-dVuwiOG9U/view?usp=sharing)
  </p>
 
 <h3 align="left">Languages and Tools:</h3>
