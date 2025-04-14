@@ -1,7 +1,8 @@
 <h1 align="center">السلام عليكم🤍</h1>
 <h2 align="center" >I'm Asmaa, a software engineer with a deep interest in back-end technologies.</h2>
-![](212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400" />
+</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asmaatefomran&label=Profile%20views&color=0e75b6&style=flat" alt="asmaatefomran" /> </p>
 <p>- 🌱 I’m currently learning **Spring Boot in more depth**
 
