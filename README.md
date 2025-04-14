@@ -7,11 +7,11 @@
 <br>
 <h3 align="left">About me:</h3>
 <p>
-  - 🌱 I’m currently learning Spring Boot in more depth, Advanced Database topics.
+    🌱 I’m currently learning Spring Boot in more depth, Advanced Database topics.
   <br>
-  - 📄 My CV: <a href="https://drive.google.com/file/d/1jFQZYcVWmUoMu7fZKZGTK2-dVuwiOG9U/view?usp=sharing" target="_blank">My CV</a>
+    📄 My CV: <a href="https://drive.google.com/file/d/1jFQZYcVWmUoMu7fZKZGTK2-dVuwiOG9U/view?usp=sharing" target="_blank">My CV</a>
   <br>
-  - ✉️ Contact me: <a href="mailto:asmaatef6789@gmail.com">asmaatef6789@gmail.com</a>
+    ✉️ Contact me: <a href="mailto:asmaatef6789@gmail.com">asmaatef6789@gmail.com</a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
