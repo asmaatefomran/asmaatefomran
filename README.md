@@ -9,11 +9,7 @@
 <p>
   - 🌱 I’m currently learning Spring Boot in more depth, Advanced Database topics.
   <br>
-  <p align="center">
-  <a href="https://drive.google.com/file/d/1jFQZYcVWmUoMu7fZKZGTK2-dVuwiOG9U/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View_My_CV-PDF-%2300B4D8?style=for-the-badge&logo=adobeacrobatreader" alt="CV Badge"/>
-  </a>
-</p>
+ 📄 **My CV:** [Download PDF](https://drive.google.com/file/d/1jFQZYcVWmUoMu7fZKZGTK2-dVuwiOG9U/view?usp=sharing)
  </p>
 
 <h3 align="left">Languages and Tools:</h3>
