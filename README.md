@@ -9,7 +9,7 @@
 <p>
     🌱 I’m currently learning Spring Boot in more depth, Advanced Database topics.
   <br>
-    📄 My CV: <a href="https://drive.google.com/file/d/12ehKdpUUG5KNA6NW2BEHEGieNSpAfq7G/view?usp=sharing" target="_blank">My CV</a>
+    📄 My CV: <a href="https://drive.google.com/file/d/1slfzpJFN6UTmfnLbsWgj9t8a-YBhUiZD/view?usp=sharing" target="_blank">My CV</a>
   <br>
     ✉️ Contact me: <a href="mailto:asmaatef6789@gmail.com">asmaatef6789@gmail.com</a>
 </p>
