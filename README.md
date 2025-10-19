@@ -7,8 +7,6 @@
 <br>
 <h3 align="left">About me:</h3>
 <p>
-    🌱 I’m currently learning Spring Boot in more depth, Advanced Database topics.
-  <br>
     📄 My CV: <a href="https://drive.google.com/file/d/1slfzpJFN6UTmfnLbsWgj9t8a-YBhUiZD/view?usp=sharing" target="_blank">My CV</a>
   <br>
     ✉️ Contact me: <a href="mailto:asmaaatefomran@gmail.com">asmaaatefomran@gmail.com</a>
