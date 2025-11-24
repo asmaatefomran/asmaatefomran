@@ -7,7 +7,7 @@
 <br>
 <h3 align="left">About me:</h3>
 <p>
-    📄 My CV: <a href="https://drive.google.com/file/d/1slfzpJFN6UTmfnLbsWgj9t8a-YBhUiZD/view?usp=sharing" target="_blank">My CV</a>
+    📄 My CV: <a href="https://drive.google.com/file/d/1vlmRm6tqMO15IslzP71MQ8TjMfMuFk4P/view?usp=sharing" target="_blank">My CV</a>
   <br>
     ✉️ Contact me: <a href="mailto:asmaaatefomran@gmail.com">asmaaatefomran@gmail.com</a>
 </p>
