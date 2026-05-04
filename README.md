@@ -29,8 +29,6 @@
 <br>
 <h3  align="left" >GitHub Stats:</h3>
 
-![Asmaa Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmaatefomran&show_icons=true&theme=radical)
-
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaatefomran&theme=radical" alt="asmaatefomran" />
 </p>
