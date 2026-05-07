@@ -13,6 +13,10 @@ LLM workflows.</h2>
     📄 My CV: <a href="https://drive.google.com/file/d/1agJm2iVMg5_4LVhkBwujx2Vtqh4RHhXV/view?usp=sharing" target="_blank">My CV</a>
   <br>
     ✉️ Contact me: <a href="mailto:asmaaatefomran@gmail.com">asmaaatefomran@gmail.com</a>
+  <br>
+    ✉️ My Linkedin:<a href="https://www.linkedin.com/in/asmaa-atef-omran-161241211" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" />  </a>
+  
 </p>
 <br>
 
@@ -20,8 +24,8 @@ LLM workflows.</h2>
 
 <div style="display: flex; justify-content: center; gap: 40px; align-items: center; margin-top: 30px;">
   <a href="https://www.linkedin.com/in/asmaa-atef-omran-161241211" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
-  </a>
+   
+ 
   <a href="mailto:asmaaatefomran@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" />
   </a>
