@@ -18,20 +18,7 @@ LLM workflows.</h2>
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" />  </a>
   
 </p>
-<br>
 
-<h3 align="left">Follow Me On:</h3>
-
-<div style="display: flex; justify-content: center; gap: 40px; align-items: center; margin-top: 30px;">
-  <a href="https://www.linkedin.com/in/asmaa-atef-omran-161241211" target="_blank">
-   
- 
-  <a href="mailto:asmaaatefomran@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" />
-  </a>
-  <a href="https://codeforces.com/profile/Asma_code" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" />
-  </a>
 </div>
 <br>
 <h3  align="left" >GitHub Stats:</h3>
