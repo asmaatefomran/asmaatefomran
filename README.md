@@ -15,7 +15,7 @@ LLM workflows.</h2>
     ✉️ Contact me: <a href="mailto:asmaaatefomran@gmail.com">asmaaatefomran@gmail.com</a>
   <br>
     ✉️ My Linkedin:<a href="https://www.linkedin.com/in/asmaa-atef-omran-161241211" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" />  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" />  </a>
   
 </p>
 <br>
