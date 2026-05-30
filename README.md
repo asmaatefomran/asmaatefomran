@@ -1,7 +1,7 @@
 <h1 align="center">Peace be upon you🤍</h1>
 <h4 align="center" >Software Engineer with hands-on experience building real-world systems using .NET and Spring Boot.
 Delivered production features in fintech and client-facing applications, with strengths in API design, system architecture, and debugging
-complex logic. Built end-to-end ML pipelines for software defect prediction (ROC-AUC 0.93) and designed AI-powered systems integrating
+complex logic. Built end-to-end ML pipelines for software defect prediction and designed AI-powered systems integrating
 LLM workflows.</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asmaatefomran&label=Profile%20views&color=0e75b6&style=flat" alt="asmaatefomran" /> </p>
 <div align="center">
