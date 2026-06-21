@@ -10,8 +10,6 @@ LLM workflows.</h2>
 <br>
 <h3 align="left">About me:</h3>
 <p>
-    📄 My CV: <a href="https://drive.google.com/file/d/1agJm2iVMg5_4LVhkBwujx2Vtqh4RHhXV/view?usp=sharing" target="_blank">My CV</a>
-  <br>
     ✉️ Contact me: <a href="mailto:asmaaatefomran@gmail.com">asmaaatefomran@gmail.com</a>
   <br>
     ✉️ My Linkedin:<a href="https://www.linkedin.com/in/asmaa-atef-omran-161241211" target="_blank">
